@@ -1,2 +1,5 @@
 # hello-world
-github tutorial repo
+
+Github tutorial repository. 
+
+This is a placeholder description. 
